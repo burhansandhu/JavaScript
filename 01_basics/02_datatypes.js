@@ -1,7 +1,5 @@
-let name = "Burhan"
-let age = 21
-let salary = undefined
-let a = null
-let isEmployee = false
+let Name = "Burhan"
+let age = 22
+let is_logged_in = false
 
-console.table([typeof name, typeof age, typeof salary, typeof a, typeof isEmployee])
+console.table([typeof(Name), age, is_logged_in])
